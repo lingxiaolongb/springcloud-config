@@ -1,7 +1,5 @@
 config:
   info: "master branch,springcloud-config/config-prod.yml version=1" 
-server:
-  port: 8844  
 spring:
   application:
-    name: cloud-config-center3344
+    name: cloud-config-client
